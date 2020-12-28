@@ -2,7 +2,7 @@
 
 define("ROOT", dirname(__DIR__) . "/");
 //Path to your project's root folder
-define("FRONT_ROOT", "/");
+define("FRONT_ROOT", "/PROJECTS/MoviePasss/");
 define("VIEWS_PATH", "Views/");
 define("CSS_PATH", FRONT_ROOT.VIEWS_PATH . "css/");
 define("IMG_PATH", FRONT_ROOT.VIEWS_PATH . "img/");
@@ -12,7 +12,7 @@ define("MDB_PATH", FRONT_ROOT.VIEWS_PATH . "BootstrapMaterialDesign/css/mdb.min.
 define("LITY_PATH", FRONT_ROOT.VIEWS_PATH . "lity/");
 //
 define("API_URL", "https://api.themoviedb.org/3/movie/");
-define("API_KEY", "YOUR_TMDB_API_KEY");
+define("API_KEY", "a67565019e2b3ed72b43911ab7692772");
 define("REQUEST_IMG","https://image.tmdb.org/t/p/");
 //
 define("DB_HOST" , "localhost");
