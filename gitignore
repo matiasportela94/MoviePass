@@ -353,5 +353,4 @@ MigrationBackup/
 #nuestros gitignores
 
 .vscode/
-debug.log
-MoviePass/debug.log
+Config/.

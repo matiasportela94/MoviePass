@@ -12,7 +12,7 @@ define("MDB_PATH", FRONT_ROOT.VIEWS_PATH . "BootstrapMaterialDesign/css/mdb.min.
 define("LITY_PATH", FRONT_ROOT.VIEWS_PATH . "lity/");
 //
 define("API_URL", "https://api.themoviedb.org/3/movie/");
-define("API_KEY", "a67565019e2b3ed72b43911ab7692772");
+define("API_KEY1", "a67565019e2b3ed72b43911ab7692772");
 define("REQUEST_IMG","https://image.tmdb.org/t/p/");
 //
 define("DB_HOST" , "localhost");
